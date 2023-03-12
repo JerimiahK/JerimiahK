@@ -7,7 +7,7 @@ My name is Jerimiah Kripakov and I am a full stack developer based in the Denver
 <hr style="border:2px solid gray">
 
 ## Languages and Tools
-<div style="background-color:white;">
+<div style="backgroundColor: white;">
  <img align="left" alt="JavaScript Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript Icon" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="CSS Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
