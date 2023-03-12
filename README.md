@@ -20,6 +20,7 @@ My name is Jerimiah Kripakov and I am a full stack developer based in the Denver
 <img align="left" alt="Git Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub Icon" width="30px" style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br>
 <hr style="border:2px solid gray">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK&show_icons=true&theme=synthwave)
