@@ -15,12 +15,13 @@ My name is Jerimiah Kripakov and I am a full stack developer based in the Denver
 <img align="left" alt="NodeJS Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="MongoDB Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="MySQL Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="ExpressJS Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="ExpressJS Icon" width="30px" style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Sass Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Git Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub Icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub Icon" width="30px" style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-## GitHub Stats
-[![Jerimiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK)](https://github.com/anuraghazra/github-readme-stats)
+<hr style="border:2px solid gray">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK&show_icons=true&theme=synthwave)
 
           
