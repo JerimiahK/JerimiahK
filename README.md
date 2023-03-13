@@ -16,7 +16,7 @@ My name is Jerimiah Kripakov and I am a full stack developer based in the Denver
 <br>
 <hr style="border:2px solid gray">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK&show_icons=true&theme=radical&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerimiahK)](https://github.com/anuraghazra/github-readme-stats)
 
           
