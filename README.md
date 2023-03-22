@@ -5,7 +5,12 @@
 My name is Jerimiah Kripakov and I am a full stack developer based in the Denver, CO area. After being a working drummer for almost a decade and being fortunate enough to tour around the country, I have decided to pursue my interest for technology and begin a career as a software developer. I have always been intrigued with how things work down to the most complex and abstract levels so conceiving, constructing, and deploying a highly efficient, refined product is something I have a passion for. I am currently accepting and working on freelance work, mainly front end websites for businesses. My code repo's are always open for viewing to both employers and fellow developers, and if you are interested in hiring me you can email me at jerimiahkripakov@gmail.com.
 
 ## Recent Projects
+[Overland High School Baseball](https://overlandbaseball.com/)
+*STILL IN DEVELOPMENT*
+This application is a React front end application that integrates several third part libraries including Material UI, React Router Dom, Stripe, among others. The user interface is a modern, clean, and easy for users to navigate between pages with ease. The website features many pages including Rosters, Events, Documents, Alumni, Sponsors, Boosters, and of course a Home page. Players, parents, coaching staff, and students will have easy access to all of the school's baseball information and also will allow parents to pay the seasons fees securely with Stripe payment processing.
+
 [De Novo Beauty](https://denovobeauty.netlify.app/)
+*STILL IN DEVELOPMENT*
 This website is a React front end application that utilizes various libraries such as Bootstrap, Material UI, EmailJS, as well as an embedded Google Map of the business location. The project file structure strictly follows the Atomic Design principal which breaks components down into different sizes, Atoms, Molecules, Organisms. and Pages. This keeps it easy for other developers to look through the code base, and if needed, contribute to the project without having to decipher file structures.
 De Novo Beauty is a start up beauty company located in Littleton, Colorado.
 
