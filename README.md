@@ -12,7 +12,7 @@ This application is a React front end application that integrates several third 
 This website is a React front end application that utilizes various libraries such as Bootstrap, Material UI, EmailJS, as well as an embedded Google Map of the business location. The project file structure strictly follows the Atomic Design principal which breaks components down into different sizes, Atoms, Molecules, Organisms. and Pages. This keeps it easy for other developers to look through the code base, and if needed, contribute to the project without having to decipher file structures.
 De Novo Beauty is a start up beauty company located in Littleton, Colorado.
 
-[Fermentations](https://fermentations.biz/)
+[Fermentations](https://fermentationsdemo.netlify.app/)
 This front-end website for Fermentations is a modern and sleek interface built with Material UI, EmailJS, and React Router Dom. The website provides users with information about the small business and allows them to navigate between pages seamlessly. The website includes a contact form that enables users to contact the business directly, as well as an embedded Google Map that displays the location of the business. The user interface is designed to be visually appealing and easy to read, with clear menus and intuitive navigation. The website is also optimized for mobile devices, ensuring that users can access it from anywhere. Overall, this front-end website provides a great user experience for customers of the wine and beer making company, making it easy to learn about the business, contact them, and find their location.
 Fermentations is a small business located in Colorado Springs. They are a wine and liquor store, that also hosts events, as well as teaches home brew and home wine making classes.
 
