@@ -33,6 +33,6 @@ The Full MERN Stack application uses Material UI for the user interface, NHL's P
 <hr style="border:2px solid gray">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerimiahK&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerimiahK)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerimiahK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
           
