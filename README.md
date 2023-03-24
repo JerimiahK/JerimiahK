@@ -8,7 +8,7 @@ My name is Jerimiah Kripakov and I am a full stack developer based in the Denver
 [Overland High School Baseball](https://overlandbaseball.com/)
 This application is a React front end application that integrates several third part libraries including Material UI, React Router Dom, Stripe, among others. The user interface is a modern, clean, and easy for users to navigate between pages with ease. The website features many pages including Rosters, Events, Documents, Alumni, Sponsors, Boosters, and of course a Home page. Players, parents, coaching staff, and students will have easy access to all of the school's baseball information and also will allow parents to pay the seasons fees securely with Stripe payment processing.
 
-[De Novo Beauty](https://denovobeauty.netlify.app/)
+[De Novo Beauty](https://denovobeautyllc.com/)
 This website is a React front end application that utilizes various libraries such as Bootstrap, Material UI, EmailJS, as well as an embedded Google Map of the business location. The project file structure strictly follows the Atomic Design principal which breaks components down into different sizes, Atoms, Molecules, Organisms. and Pages. This keeps it easy for other developers to look through the code base, and if needed, contribute to the project without having to decipher file structures.
 De Novo Beauty is a start up beauty company located in Littleton, Colorado.
 
